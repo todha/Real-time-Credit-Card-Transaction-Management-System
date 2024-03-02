@@ -1,0 +1,5 @@
+Link video demo:
+https://drive.google.com/drive/folders/1jOllO92BHU2RcGvF5VhjO-eeuGsMyUlm
+
+Video Demo_1: từ kafka lên hdfs
+Video Demo_2: PowerBI kết nối hdfs và thống kê
